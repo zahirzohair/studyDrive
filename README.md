@@ -1,9 +1,6 @@
 # Study Drive Back-end Task
 
-This small task is about two APIs that enable students to register a course and as well list all the courses with the status of whether available
-or not available.
-
-# Feature
+This backend task is about generating a databse from given tables and developing two APIs that enable students to register a course and as well list all the courses with their status either available or not available.
 
 ## Users
 - Studnet 
